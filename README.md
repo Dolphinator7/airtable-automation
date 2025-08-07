@@ -55,12 +55,10 @@ Score: <integer>
 Issues: <comma-separated list or 'None'>
 Follow-Ups: <bullet list>
 
-## Project Structure
-mercor-airtable-automation/
-│
-├── manage.py                  # Main CLI script with all core logic
-├── .env                       # Environment variables (not committed)
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project overview and setup instructions
-├── .gitignore                 # Ignore virtual envs, .env, etc.
+
+## 📄 Full Documentation
+
+All implementation details, Airtable schema, automation logic, and setup instructions are available in the following document:
+
+👉 [View Full Google Doc Documentation](https://docs.google.com/document/d/1IH0ZUEXI2uOAQCn7jzsvr3Juet3o2TgiVRKZphlc2UE/edit?usp=sharing)
 
